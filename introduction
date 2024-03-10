@@ -1,0 +1,6 @@
+This program allows users to create bank accounts, login, deposits and withdraw.
+
+Explanation:
+
+Bank account class:
+This class represents a bank account. it has mmethod for login deposit and withdrawal.
